@@ -26,6 +26,7 @@ list_of_files =[
     "pyproject.toml",
     "tox.ini",
     "experiments/experiments.ipynb",
+    "experiments/experiments_new.ipynb",
 ]
 
 for filepath in list_of_files:
@@ -61,6 +62,8 @@ list_of_files = [
    "pyproject.toml",
    "tox.ini",
    "experiments/experiments.ipynb", 
+   "experiments/experiments_new.ipynb", 
+
 ]
 
 for filepath in list_of_files:
